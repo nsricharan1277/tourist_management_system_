@@ -29,6 +29,12 @@ db.sqlite3
 *.swp
 *.swo
 
+# Media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
 # OS
 .DS_Store
 Thumbs.db
